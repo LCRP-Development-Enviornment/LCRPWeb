@@ -23,4 +23,4 @@ This repository contains the source code for a site with the following features:
 
 ## Installation
 
-dont install this or run it locally. this is ours.
+Self-installation is prohibited for this resource.
